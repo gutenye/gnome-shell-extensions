@@ -1,0 +1,7 @@
+{
+	"name": "Guten Quickswitch",
+	"description": "Quick launch or switch terminals with one hotkey",
+	"shell-version": ["3.16"],
+	"uuid": "quickswitch@guten.me",
+	"settings-schema": "org.gnome.shell.extensions.quickswitch"
+}

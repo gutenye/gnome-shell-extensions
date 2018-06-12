@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.quickswitch" path="/org/gnome/shell/extensions/quickswitch/">
+    <key name="escape" type="as"><default>["&lt;Alt&gt;Escape"]</default><summary></summary><description></description></key>
+    <key name="f1" type="as"><default>["&lt;Alt&gt;F1"]</default><summary></summary><description></description></key>
+    <key name="f2" type="as"><default>["&lt;Alt&gt;F2"]</default><summary></summary><description></description></key>
+    <key name="f3" type="as"><default>["&lt;Alt&gt;F3"]</default><summary></summary><description></description></key>
+    <key name="f4" type="as"><default>["&lt;Alt&gt;F4"]</default><summary></summary><description></description></key>
+    <key name="f5" type="as"><default>["&lt;Alt&gt;F5"]</default><summary></summary><description></description></key>
+    <key name="f6" type="as"><default>["&lt;Alt&gt;F6"]</default><summary></summary><description></description></key>
+    <key name="f7" type="as"><default>["&lt;Alt&gt;F7"]</default><summary></summary><description></description></key>
+    <key name="f8" type="as"><default>["&lt;Alt&gt;F8"]</default><summary></summary><description></description></key>
+    <key name="f9" type="as"><default>["&lt;Alt&gt;F9"]</default><summary></summary><description></description></key>
+    <key name="f10" type="as"><default>["&lt;Alt&gt;F10"]</default><summary></summary><description></description></key>
+    <key name="f11" type="as"><default>["&lt;Alt&gt;F11"]</default><summary></summary><description></description></key>
+    <key name="f12" type="as"><default>["&lt;Alt&gt;F12"]</default><summary></summary><description></description></key>
+
+    <key name="grave" type="as"><default>["&lt;Alt&gt;grave"]</default><summary></summary><description></description></key>
+    <key name="one" type="as"><default>["&lt;Alt&gt;1"]</default><summary></summary><description></description></key>
+    <key name="two" type="as"><default>["&lt;Alt&gt;2"]</default><summary></summary><description></description></key>
+    <key name="three" type="as"><default>["&lt;Alt&gt;3"]</default><summary></summary><description></description></key>
+    <key name="four" type="as"><default>["&lt;Alt&gt;4"]</default><summary></summary><description></description></key>
+    <key name="five" type="as"><default>["&lt;Alt&gt;5"]</default><summary></summary><description></description></key>
+    <key name="six" type="as"><default>["&lt;Alt&gt;6"]</default><summary></summary><description></description></key>
+    <key name="seven" type="as"><default>["&lt;Alt&gt;7"]</default><summary></summary><description></description></key>
+    <key name="eight" type="as"><default>["&lt;Alt&gt;8"]</default><summary></summary><description></description></key>
+    <key name="nine" type="as"><default>["&lt;Alt&gt;9"]</default><summary></summary><description></description></key>
+    <key name="zero" type="as"><default>["&lt;Alt&gt;0"]</default><summary></summary><description></description></key>
+    <key name="minus" type="as"><default>["&lt;Alt&gt;minus"]</default><summary></summary><description></description></key>
+    <key name="equal" type="as"><default>["&lt;Alt&gt;equal"]</default><summary></summary><description></description></key>
+    <key name="backspace" type="as"><default>["&lt;Alt&gt;BackSpace"]</default><summary></summary><description></description></key>
+
+    <key name="q" type="as"><default>["&lt;Alt&gt;q"]</default><summary></summary><description></description></key>
+    <key name="w" type="as"><default>["&lt;Alt&gt;w"]</default><summary></summary><description></description></key>
+    <key name="e" type="as"><default>["&lt;Alt&gt;e"]</default><summary></summary><description></description></key>
+    <key name="r" type="as"><default>["&lt;Alt&gt;r"]</default><summary></summary><description></description></key>
+    <key name="t" type="as"><default>["&lt;Alt&gt;t"]</default><summary></summary><description></description></key>
+    <key name="y" type="as"><default>["&lt;Alt&gt;y"]</default><summary></summary><description></description></key>
+    <key name="u" type="as"><default>["&lt;Alt&gt;u"]</default><summary></summary><description></description></key>
+    <key name="i" type="as"><default>["&lt;Alt&gt;i"]</default><summary></summary><description></description></key>
+    <key name="o" type="as"><default>["&lt;Alt&gt;o"]</default><summary></summary><description></description></key>
+    <key name="p" type="as"><default>["&lt;Alt&gt;p"]</default><summary></summary><description></description></key>
+    <key name="bracketleft" type="as"><default>["&lt;Alt&gt;bracketleft"]</default><summary></summary><description></description></key>
+    <key name="bracketright" type="as"><default>["&lt;Alt&gt;bracketright"]</default><summary></summary><description></description></key>
+    <key name="backslash" type="as"><default>["&lt;Alt&gt;backslash"]</default><summary></summary><description></description></key>
+
+    <key name="capslock" type="as"><default>["&lt;Alt&gt;Caps_Lock"]</default><summary></summary><description></description></key>
+    <key name="a" type="as"><default>["&lt;Alt&gt;a"]</default><summary></summary><description></description></key>
+    <key name="s" type="as"><default>["&lt;Alt&gt;s"]</default><summary></summary><description></description></key>
+    <key name="d" type="as"><default>["&lt;Alt&gt;d"]</default><summary></summary><description></description></key>
+    <key name="f" type="as"><default>["&lt;Alt&gt;f"]</default><summary></summary><description></description></key>
+    <key name="g" type="as"><default>["&lt;Alt&gt;g"]</default><summary></summary><description></description></key>
+    <key name="h" type="as"><default>["&lt;Alt&gt;h"]</default><summary></summary><description></description></key>
+    <key name="j" type="as"><default>["&lt;Alt&gt;j"]</default><summary></summary><description></description></key>
+    <key name="k" type="as"><default>["&lt;Alt&gt;k"]</default><summary></summary><description></description></key>
+    <key name="l" type="as"><default>["&lt;Alt&gt;l"]</default><summary></summary><description></description></key>
+    <key name="semicolon" type="as"><default>["&lt;Alt&gt;semicolon"]</default><summary></summary><description></description></key>
+    <key name="apostrophe" type="as"><default>["&lt;Alt&gt;apostrophe"]</default><summary></summary><description></description></key>
+    <key name="return" type="as"><default>["&lt;Alt&gt;Return"]</default><summary></summary><description></description></key>
+
+    <key name="z" type="as"><default>["&lt;Alt&gt;z"]</default><summary></summary><description></description></key>
+    <key name="x" type="as"><default>["&lt;Alt&gt;x"]</default><summary></summary><description></description></key>
+    <key name="c" type="as"><default>["&lt;Alt&gt;c"]</default><summary></summary><description></description></key>
+    <key name="v" type="as"><default>["&lt;Alt&gt;v"]</default><summary></summary><description></description></key>
+    <key name="b" type="as"><default>["&lt;Alt&gt;b"]</default><summary></summary><description></description></key>
+    <key name="n" type="as"><default>["&lt;Alt&gt;n"]</default><summary></summary><description></description></key>
+    <key name="m" type="as"><default>["&lt;Alt&gt;m"]</default><summary></summary><description></description></key>
+    <key name="comma" type="as"><default>["&lt;Alt&gt;comma"]</default><summary></summary><description></description></key>
+    <key name="period" type="as"><default>["&lt;Alt&gt;period"]</default><summary></summary><description></description></key>
+    <key name="slash" type="as"><default>["&lt;Alt&gt;slash"]</default><summary></summary><description></description></key>
+  </schema>
+</schemalist>
